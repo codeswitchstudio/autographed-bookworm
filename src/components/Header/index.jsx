@@ -4,7 +4,7 @@ import {HeaderContainer, Logo} from './styles'
 const Header = ({children}) => (
   <HeaderContainer>
     <a href="/">
-      <Logo title="Book Club logo" />
+      <Logo title="Autograffitude logo" />
     </a>
     {children}
   </HeaderContainer>

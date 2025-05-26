@@ -59,7 +59,11 @@ const App = () => {
         books={filteredBooks}
         pickBook={pickBook}
         isPanelOpen={showPanel}
-        title={hasFiltered ? 'Search results' : 'Signed books'}
+        title={
+          hasFiltered
+            ? 'Search results'
+            : 'A repository of opportunistic book signing moments in Blighty mostly'
+        }
       />
       <Transition in={showPanel} timeout={300}>
         {(state) => <DetailPanel book={selectedBook} state={state} closePanel={closePanel} />}

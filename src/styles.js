@@ -2,7 +2,7 @@ import styled, {createGlobalStyle} from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
   body {
-    background-color: #a7e1f8;
+    background-color: #f6f4f0;
     font-family: 'Work Sans', sans-serif;
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ export const Pill = styled.div`
   border: 2px solid black;
   border-radius: 30px;
   height: 20px;
-  background: #a7e1f8;
+  background: #f6f4f0;
   padding: 8px;
   display: flex;
   align-items: center;

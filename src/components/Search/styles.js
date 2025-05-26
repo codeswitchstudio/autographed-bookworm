@@ -8,7 +8,7 @@ export const Wrapper = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #ffbccc;
+    background: rgb(255, 255, 255);
     height: 64px;
     width: 100vw;
     left: 0;
@@ -37,7 +37,7 @@ export const SearchContainer = styled(Pill)`
 `
 
 export const Input = styled.input`
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   font-size: 18px;
   flex-grow: 1;

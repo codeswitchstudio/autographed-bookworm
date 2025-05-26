@@ -15,10 +15,15 @@ export const BG = styled.div`
 `
 
 export const Panel = styled.article`
-  background-color: #ffe581;
-  border-left: 2px solid #000;
+  // background-color: #dceab2;
+  // background-color: #251b14;
+  background-color: gray;
+  margin-top: 0px;
+  color: white;
+  // border-left: 2px solid #000;
   box-sizing: border-box;
-  height: calc(100vh - 82px);
+  // height: calc(100vh - 82px);
+  height: 100vh;
   width: 660px;
   position: fixed;
   z-index: 2;

@@ -1,8 +1,9 @@
 import styled from 'styled-components'
 
 export const Container = styled.div`
-  background-color: #a7e1f8;
-  padding: 160px 40px;
+  // background-color: #d6ebe9;
+  background-color: #f6f4f0;
+  padding: 40px 100px;
   overflow: ${({$isPanelOpen}) => ($isPanelOpen ? 'hidden' : 'scroll')};
   position: ${({$isPanelOpen}) => ($isPanelOpen ? 'fixed' : 'relative')};
   top: ${({$isPanelOpen, $top}) => ($isPanelOpen ? `-${$top}px` : '0')};
@@ -13,11 +14,11 @@ export const Container = styled.div`
 `
 
 export const H2 = styled.h2`
-  font-size: 42px;
+  font-size: 32px;
   margin: 0 0 10px 0;
 
   @media (max-width: 800px) {
-    font-size: 32px;
+    font-size: 22px;
   }
 `
 
