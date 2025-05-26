@@ -1,13 +1,12 @@
-
+[
   {
     "id": 1,
-    "author": "Michael Palin",
+    "author": "Michael Palin, Right!",
     "title": "Full Circle: a Pacific Journey",
-    "description": "I chanced upon Michael Palin’s visit to our school last night to talk about his latest book, Diaries 1967-1979: The Python Years.  IoE’s Logan Hall was packed to the rafters. Mr. Palin, joking about how critics accused him of being conciliatory and “relentlessly nice,” was as kind as he was funny and generous with the Python Years anecdotes. One time they were doing the “dead mother” sketch and the audience reception (from mayors and other major VIPs) turned out to be “the kind of silence you get when you’re trying to record sounds in outer space.” He also talked about the difficulty of shooting that sequence of the “Knights who say ‘Ni!’ in Holy Grail:  up a step ladder with a long, heavy, trailing cloak in freezing, body-numbing, weather in Scotland, sapped of strength and a barely a squeak of a voice to yell ‘Ni!’;  in annoyance to lots of camera men perched on trees! Later, I had him sign a copy of Full Circle from his travel series.  He has this to say about the Philippines: “You don’t have to be long in the country to appreciate that the jeepney expresses the Filipino spirit:  emotional, exuberant, celebratory; endearing and unwary.  We are following a truck marked ‘Careful Movers’, which lurches forward, its backdoor swinging wildly open.”
-
-.",
-    "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71IfL9LJQ6L._SY522_.jpg",
-    "published": 1997
+    "description": "test",
+    "image": "/img/Cov01_Palin.png",
+    "signedImage": "/img/Signed01-Palin.jpg",
+    "date": 1997
   },
   {
     "id": 2,
@@ -15,7 +14,7 @@
     "title": "The Fifth Season",
     "description": "This is the way the world ends. Again. Three terrible things happen in a single day. Essun, a woman living an ordinary life in a small town, comes home to find that her husband has brutally murdered their son and kidnapped their daughter. At the end of the world, a woman must hide her secret power and find her kidnapped daughter in this intricate and extraordinary novel of power, oppression, and revolution.",
     "image": "https://images-na.ssl-images-amazon.com/images/I/61XfS2XCw3L.jpg",
-    "published": 2015
+    "date": 2015
   },
   {
     "id": 3,
@@ -23,7 +22,7 @@
     "title": "So You Want to Talk About Race",
     "description": "In So You Want to Talk About Race, Ijeoma Oluo guides readers of all races through subjects ranging from intersectionality and affirmative action to 'model minorities' in an attempt to make the seemingly impossible possible: honest conversations about race and racism, and how they infect almost every aspect of American life.",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51XLHiMQA5L.jpg",
-    "published": 2018
+    "date": 2018
   },
   {
     "id": 4,

@@ -1,5 +1,4 @@
 import React, {useRef, useEffect} from 'react'
-import Book from '../Book'
 import {CloseWrapper, Panel, BG, P, Em} from './styles'
 import {Close} from '../../styles'
 
@@ -23,10 +22,22 @@ const DetailPanel = ({book, closePanel, state}) => {
         </CloseWrapper>
         {book && (
           <>
-            <Book book={book} isLarge={true} />
+            {/* <Book book={book} isLarge={true} /> */}
+            {book.signedImage && (
+              <img
+                src={book.signedImage}
+                alt={`Signed page of ${book.title}`}
+                style={{
+                  width: '100%',
+                  marginBottom: '30px',
+                  border: '2px solid black',
+                  borderRadius: '8px',
+                }}
+              />
+            )}
             <P>{book.description}</P>
             <P>
-              <Em>Published in {book.published}</Em>
+              <Em>Signed in {book.date}</Em>
             </P>
           </>
         )}

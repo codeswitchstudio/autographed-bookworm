@@ -5,17 +5,7 @@ export const Container = styled.figure`
   margin: 0;
 `
 
-export const Cover = styled.img`
-  filter: grayscale(100%);
-  border: 2px solid black;
-  object-fit: cover;
-  aspect-ratio: 2 / 3;
-  width: 100%;
-  margin-bottom: 16px;
-`
-
 export const Signed = styled.img`
-  filter: grayscale(100%);
   border: 2px solid black;
   object-fit: cover;
   // aspect-ratio: 2 / 3;

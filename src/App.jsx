@@ -14,9 +14,7 @@ const App = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch(
-        'https://api.jsonsilo.com/public/8ac27526-5c8b-4e97-b458-7a8f914653a4'
-      )
+      const response = await fetch('/data/books.json')
       const books = await response.json()
       setBooks(books)
       setFilteredBooks(books)
@@ -61,7 +59,7 @@ const App = () => {
         books={filteredBooks}
         pickBook={pickBook}
         isPanelOpen={showPanel}
-        title={hasFiltered ? 'Search results' : 'All books'}
+        title={hasFiltered ? 'Search results' : 'Signed books'}
       />
       <Transition in={showPanel} timeout={300}>
         {(state) => <DetailPanel book={selectedBook} state={state} closePanel={closePanel} />}
