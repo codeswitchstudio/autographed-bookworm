@@ -46,27 +46,30 @@
   },
   {
     "id": 6,
-    "author": "Octavia E. Butler",
-    "title": "Parable of the Sower",
+    "author": "Douglas Coupland",
+    "title": "Everywhere is Anywhere is Anything is Everything",
     "description": "When global climate change and economic crises lead to social chaos in the early 2020s, California becomes full of dangers, from pervasive water shortage to masses of vagabonds who will do anything to live to see another day. Fifteen-year-old Lauren Olamina lives inside a gated community with her preacher father, family, and neighbors, sheltered from the surrounding anarchy. In a society where any vulnerability is a risk, she suffers from hyperempathy, a debilitating sensitivity to others' emotions. Precocious and clear-eyed, Lauren must make her voice heard in order to protect her loved ones from the imminent disasters her small community stubbornly ignores.",
-    "image": "https://imgur.com/nlJZP2a.png",
-    "published": 1993
+    "image": "/img/Cov06_Coupland.jpg",
+    "signedImage": "/img/Signed06-Coupland.jpg",
+    "date": 2012
   },
   {
     "id": 7,
-    "author": "Ta-Nehisi Coates",
-    "title": "The Water Dancer",
+    "author": "Gabriela Coleman",
+    "title": "Hacker, Hoaxer, Whistleblower, Spy",
     "description": "Young Hiram Walker was born into bondage. When his mother was sold away, Hiram was robbed of all memory of her—but was gifted with a mysterious power. Years later, when Hiram almost drowns in a river, that same power saves his life. This brush with death births an urgency in Hiram and a daring scheme: to escape from the only home he’s ever known.",
-    "image": "https://imgur.com/R6K9qDh.png",
-    "published": 2019
+    "image": "/img/Cov07_Coleman.jpg",
+    "signedImage": "/img/Signed06-Coupland.jpg",
+    "date": 2012
   },
   {
     "id": 8,
-    "author": "Malcolm X and Alex Haley",
-    "title": "The Autobiography of Malcolm X",
+    "author": "In Real Life",
+    "title": "Cory Doctorow",
     "description": "In the searing pages of this classic autobiography, originally published in 1964, Malcolm X, the Muslim leader, firebrand, and anti-integrationist, tells the extraordinary story of his life and the growth of the Black Muslim movement. His fascinating perspective on the lies and limitations of the American Dream, and the inherent racism in a society that denies its nonwhite citizens the opportunity to dream, gives extraordinary insight into the most urgent issues of our own time.",
-    "image": "https://imgur.com/FYOGKRR.png",
-    "published": 1965
+    "image": "/img/Cov08_Doctorow.jpg",
+    "signedImage": "/img/Signed08-Doctorow.jpg",
+    "date": 2012
   },
   {
     "id": 9,
