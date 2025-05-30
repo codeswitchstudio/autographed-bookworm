@@ -37,7 +37,7 @@ export const Close = styled.button`
   &:after {
     background-color: #000;
     content: ' ';
-    height: 24px;
+    height: 24px;~~~~~
     left: 12px;
     position: absolute;
     top: 0;
@@ -52,6 +52,12 @@ export const Close = styled.button`
 `
 export const Subtitle = styled.div`
   padding: 10px 100px;
+  margin: 0 0 10px 0;
+
+  @media (max-width: 800px) {
+    padding: 10px 40px;
+  }
+
   font-family: 'Courier New', monospace;
   font-weight: bold;
   // text-transform: capitalize;
