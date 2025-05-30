@@ -50,3 +50,10 @@ export const Close = styled.button`
     transform: rotate(-45deg);
   }
 `
+export const Subtitle = styled.div`
+  padding: 10px 100px;
+  font-family: 'Courier New', monospace;
+  font-weight: bold;
+  // text-transform: capitalize;
+  // color: #666;
+`
