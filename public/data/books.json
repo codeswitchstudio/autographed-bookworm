@@ -18,13 +18,13 @@
     "date": 2018
   },
   {
-    "id": 4,
-    "author": "Iain Sinclair",
-    "title": "Ghost Milk",
-    "description": "Notes from the Café OTO event.\n\nGhost Milk from gas lamps that lit the old East end.\n\n\"CGI smears on the blue fence. Real juice from a virtual host. Embalming fluid. A soup of photographic negatives. Soul food for the dead. The universal element in which we sink and swim\"\n\nGhost Milk also refers to the contamination on the Olympic site grounds which local councils didn't know about yet big construction corporations knew but kept on building these huge stadiums and shit.\n\nApparently there are missiles waiting to be pointed at potential 'terrorist threats' on top of Towerblocks overlooking the Olympic park and a security base in the middle of Epping Forest.\n\nOPEN founder and saxophonist Bill Parry-Davies reveals the contamination report for the Olympic Park. Sinclair's reading is supplemented by angry/sad sax riffs + projected footage of the Olympic site construction which kinda look like Afghanistan and Guatanamo. Anna Minton reads from her book 'Ground Control' republished with a new chapter on Olympic legacy. \"This is the architecture of extreme capitalism, which produces a divided landscape of privately owned, disconnected, high security, gated enclaves side by side with enclaves of poverty which remain untouched by the wealth around them.\"",
-    "image": "/img/Cov04_Sinclair.jpg",
-    "signedImage": "/img/Signed04-Sinclair.jpg",
-    "date": 2012
+    "id": 27,
+    "author": "Elaine Castillo",
+    "title": "Moderation",
+    "description": "Sharper than a butterfly knife. ************************************************************ It felt like a good enough reason to take the train to Southbank on a humid afternoon: to stand in line for a new book, Moderation - one that seems to take a turn from the last. (I read America is not the Heart but I actually love How to Read Now which came after it). A classicist who knows her Star Trek, and Red Dead Redemption, a Pinay-American with Bay Area roots but not a stranger to London, (she's graduated from Goldsmiths and lived a bit in Camden? ) Elaine Castillo is lauded by the FT as 'One of the planet’s most exciting young people’. But I am already forty, she laughs more than once though she does not look it, cool and warm at the same time: boots on and a T-shirt that with the words Mother, Daughter, Holy Spirit. Topics discussed: VR, world-building, tech bros and outsourcing: the digital sweatshop, particularly the social media cleaners at the bottom of the Tech Bro food chain. Storytelling, machismo, and fascism. The Filipino diaspora of course, and also shifting literary genres. (Which in my book is a good thing.) I am glad I went and let her know her my appreciation for the last chapter in how to Read now (the one with the Cyclops cave) and how I love how it ties up with Ursula LeGuin's Carrier Bag Theory of fiction. ",
+    "image": "/img/Cov027_Castillo.jpg",
+    "signedImage": "/img/Signed027-Castillo.png",
+    "date": 2025
   },
   {
     "id": 9,
@@ -39,7 +39,7 @@
     "id": 21,
     "author": "Jeanette Winterson",
     "title": "Frankisstein",
-    "description": "Purcell Room, Southbank Centre. An amazing book reading like a one-woman radio adaptation of her own universe (with AI voices and a fog machine). Winterson is such an eloquent speaker as well and makes me want to actually read Mary Shelley. ************************************************************ Set across three centuries and multiple narratives, Frankissstein is an audacious exploration of identity, technology and sexuality which considers what will happen when homo sapiens are no longer the smartest beings on the planet and suggests we are much closer to that future than we realise",
+    "description": "Legend. Purcell Room, Southbank Centre. Recording this memory of an amazing book reading - like a one-woman radio adaptation of her own universe (with AI voices and a fog machine). Winterson is such an eloquent speaker as well and makes me want to actually read Mary Shelley. ************************************************************ Set across three centuries and multiple narratives, Frankissstein is an audacious exploration of identity, technology and sexuality which considers what will happen when homo sapiens are no longer the smartest beings on the planet and suggests we are much closer to that future than we realise",
     "image": "/img/Cov021_Winterson.jpg",
     "signedImage": "/img/Signed021-Winterson.jpg",
     "date": 2018
@@ -98,6 +98,15 @@
     "image": "/img/Cov01_Palin.png",
     "signedImage": "/img/Signed01-Palin.jpg",
     "date": 2006
+  },
+  {
+    "id": 4,
+    "author": "Iain Sinclair",
+    "title": "Ghost Milk",
+    "description": "Notes from the Café OTO event.\n\nGhost Milk from gas lamps that lit the old East end.\n\n\"CGI smears on the blue fence. Real juice from a virtual host. Embalming fluid. A soup of photographic negatives. Soul food for the dead. The universal element in which we sink and swim\"\n\nGhost Milk also refers to the contamination on the Olympic site grounds which local councils didn't know about yet big construction corporations knew but kept on building these huge stadiums and shit.\n\nApparently there are missiles waiting to be pointed at potential 'terrorist threats' on top of Towerblocks overlooking the Olympic park and a security base in the middle of Epping Forest.\n\nOPEN founder and saxophonist Bill Parry-Davies reveals the contamination report for the Olympic Park. Sinclair's reading is supplemented by angry/sad sax riffs + projected footage of the Olympic site construction which kinda look like Afghanistan and Guatanamo. Anna Minton reads from her book 'Ground Control' republished with a new chapter on Olympic legacy. \"This is the architecture of extreme capitalism, which produces a divided landscape of privately owned, disconnected, high security, gated enclaves side by side with enclaves of poverty which remain untouched by the wealth around them.\"",
+    "image": "/img/Cov04_Sinclair.jpg",
+    "signedImage": "/img/Signed04-Sinclair.jpg",
+    "date": 2012
   },
   {
     "id": 2,
