@@ -1,0 +1,3 @@
+> git push origin main:main
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/codeswitchstudio/autographed-bookworm.git/'
