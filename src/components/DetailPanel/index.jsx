@@ -1,17 +1,25 @@
 import React, {useRef, useEffect} from 'react'
-import {CloseWrapper, Panel, BG, P, Em} from './styles'
+import {CloseWrapper, Panel, BG, P, Em, Divider} from './styles'
 import {Close} from '../../styles'
+
+const renderInline = (text) =>
+  text.split(/\*(.+?)\*/g).map((part, i) => (i % 2 === 1 ? <Em key={i}>{part}</Em> : part))
+
+const renderEssay = (text) =>
+  text
+    .split('\n\n')
+    .map((para, i) =>
+      para.trim() === '---' ? <Divider key={i} /> : <P key={i}>{renderInline(para)}</P>
+    )
 
 const DetailPanel = ({book, closePanel, state}) => {
   const panelEl = useRef(null)
-  const prevBook = useRef(null)
 
   useEffect(() => {
-    if (prevBook.current !== book) {
+    if (state === 'entering') {
       panelEl.current.scrollTop = 0
     }
-    prevBook.current = book
-  }, [book, prevBook])
+  }, [state])
 
   return (
     <>
@@ -22,7 +30,6 @@ const DetailPanel = ({book, closePanel, state}) => {
         </CloseWrapper>
         {book && (
           <>
-            {/* <Book book={book} isLarge={true} /> */}
             {book.signedImage && (
               <img
                 src={book.signedImage}
@@ -35,9 +42,9 @@ const DetailPanel = ({book, closePanel, state}) => {
                 }}
               />
             )}
-            <P>{book.description}</P>
+            {renderEssay(book.description)}
             <P>
-              <Em>Signed in {book.date}</Em>
+              <tt>Signed in {book.date}</tt>
             </P>
           </>
         )}

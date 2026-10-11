@@ -73,3 +73,9 @@ export const P = styled.p`
 export const Em = styled.em`
   font-style: italic;
 `
+
+export const Divider = styled.hr`
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  margin: 30px 0 0;
+`
