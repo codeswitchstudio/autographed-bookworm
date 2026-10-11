@@ -62,7 +62,24 @@
     "signedImage": "/img/Signed024-AndersNewitz.jpg",
     "date": 2019
   },
-
+  {
+    "id": 29,
+    "author": "Patti Smith",
+    "title": "Bread of Angels",
+    "description": "If *Just* Kids is about innocence and ambition, *Bread of Angels* - a sister to that book... deals with the more painful realities of experience. She fills in what the earlier memoir leaves in the background: her childhood, her marriage, her fame ... Near the end of our conversation, Smith brought up her desire, invoked early in her memoir, to write something in which everyone would find a piece of themselves - The Atlantic\n\n*Bread of Angels* is not [Patti's] first memoir... but it is a full-on autobiography, and the only one I know written by a rock star that recounts a three dimensional artist’s journey. This is the autobiography of a sensibility as well as an individual, its nearest equivalent being Dylan's illuminating, episodic and charmingly unreliable Chronicles, Volume 1 ... There is no one like her, though many have tried to emulate her. Swimming ecstatically in the ‘sea of possibilities’, she created entirely new vistas of what women could do in rock and she unveils in Bread of Angels a literary voice as unique and mesmeric as the voice we heard on that first album - Literary Review.",
+    "image": "/img/Cov029_Smith.jpg",
+    "signedImage": "/img/Signed029-PattiSmith.png",
+    "date": 2025
+  },
+  {
+    "id": 30,
+    "author": "Carla Montemayor",
+    "title": "The Island of Forgotten Daughters",
+    "description": "East and South East Asian Lit Fest at Foyles, September 2026\n\n\nTop inset: Carla Montemayor and Natalie Gregory ​as they trace ​their underrepresented histories of Southeast Asia, with journalist Suyin Haynes. Not in photo:  the mouse that hijacked everyone's attention by scurrying across the front of the stage.\n\n---\n\n Stories told by the Binukot interwoven with the lucid jigsaw pieces on women in Carla's family tree have actually been more enriching and satisfying for me than watching the latest Odyssey flick.\n\n Carla Montemayor is a writer originally from the Philippines, now based in London. She won a London Writers Award for narrative nonfiction in 2021 and was a fellow on the London Library Emerging Writers Programme 2022-23. Her writing has been shortlisted for Spread the Word’s Life Writing Award (2020), and the Specimen Press competition To Speak England in Different Languages (2021). She has contributed work to acclaimed food writing anthology *London Feeds Itself (2022)*, and her essay ‘The Shapeshifters’ in *Hinterland Magazine* was nominated for a Pushcart Prize in 2021.",
+    "image": "/img/Cov030_Montemayor.webp",
+    "signedImage": "/img/Signed030-Montemayor.png",
+    "date": 2026
+  },
   {
     "id": 25,
     "author": "Ellen Lupton",
@@ -234,15 +251,6 @@
     "image": "/img/Cov08_Doctorow.jpg",
     "signedImage": "/img/Signed08-Doctorow.jpg",
     "date": 2012
-  },
-  {
-    "id": 29,
-    "author": "Patti Smith",
-    "title": "Bread of Angels",
-    "description": "If *Just* Kids is about innocence and ambition, *Bread of Angels* - a sister to that book... deals with the more painful realities of experience. She fills in what the earlier memoir leaves in the background: her childhood, her marriage, her fame ... Near the end of our conversation, Smith brought up her desire, invoked early in her memoir, to write something in which everyone would find a piece of themselves - The Atlantic\n\n*Bread of Angels* is not [Patti's] first memoir... but it is a full-on autobiography, and the only one I know written by a rock star that recounts a three dimensional artist’s journey. This is the autobiography of a sensibility as well as an individual, its nearest equivalent being Dylan's illuminating, episodic and charmingly unreliable Chronicles, Volume 1 ... There is no one like her, though many have tried to emulate her. Swimming ecstatically in the ‘sea of possibilities’, she created entirely new vistas of what women could do in rock and she unveils in Bread of Angels a literary voice as unique and mesmeric as the voice we heard on that first album - Literary Review.",
-    "image": "/img/Cov029_Smith.jpg",
-    "signedImage": "/img/Signed029-PattiSmith.png",
-    "date": 2025
   },
   {
     "id": 10,
